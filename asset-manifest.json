@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.8bf7ae77.css",
-    "main.js": "./static/js/main.03fe4951.js",
+    "main.css": "./static/css/main.570803e2.css",
+    "main.js": "./static/js/main.04ac7256.js",
     "static/media/Unbounded-ExtraBold.ttf": "./static/media/Unbounded-ExtraBold.8bfaaced79220c303a8d.ttf",
     "static/media/Unbounded-SemiBold.ttf": "./static/media/Unbounded-SemiBold.32ef5e5f63476c23204a.ttf",
     "static/media/WixMadeforDisplay-SemiBold.ttf": "./static/media/WixMadeforDisplay-SemiBold.7dc5713259442e0b332b.ttf",
@@ -9,11 +9,11 @@
     "static/media/WixMadeforDisplay-Bold.ttf": "./static/media/WixMadeforDisplay-Bold.98543e2023a91502975f.ttf",
     "static/media/WixMadeforDisplay-Regular.ttf": "./static/media/WixMadeforDisplay-Regular.2acfbfaa8ee30ac9b8ae.ttf",
     "index.html": "./index.html",
-    "main.8bf7ae77.css.map": "./static/css/main.8bf7ae77.css.map",
-    "main.03fe4951.js.map": "./static/js/main.03fe4951.js.map"
+    "main.570803e2.css.map": "./static/css/main.570803e2.css.map",
+    "main.04ac7256.js.map": "./static/js/main.04ac7256.js.map"
   },
   "entrypoints": [
-    "static/css/main.8bf7ae77.css",
-    "static/js/main.03fe4951.js"
+    "static/css/main.570803e2.css",
+    "static/js/main.04ac7256.js"
   ]
 }
